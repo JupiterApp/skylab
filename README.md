@@ -1,5 +1,4 @@
-# Skylab
---- 
+# Skylab 🛰🧪
 
 Skylab is a simple library for running A/B tests and other experiments.
 
