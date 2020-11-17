@@ -1,5 +1,7 @@
 # Skylab 🛰🧪
 
+[![JupiterApp](https://circleci.com/gh/JupiterApp/skylab.svg?style=shield)](https://app.circleci.com/pipelines/github/JupiterApp/skylab)
+
 Skylab is a simple library for running A/B tests and other experiments.
 
 To use it, simply import the `Experiment` class, call the constructor's
